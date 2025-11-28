@@ -1,0 +1,14 @@
+.web {
+  color: #4d5ae5;
+}
+.studio {
+  color: #2e2f42;
+}
+.logo {
+  font-size: 18px;
+  line-height: 1.666;
+  letter-spacing: 0.03em;
+}
+a {
+  text-decoration: none;
+}
